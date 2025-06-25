@@ -1,0 +1,212 @@
+<employees>
+  <employee>
+    <id>1</id>
+    <name>Kartik Shinde</name>
+    <position>Software Engineer</position>
+    <salary>75000</salary>
+    <hire_date>2022-01-15T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>2</id>
+    <name>Samarth Kolapkar</name>
+    <position>Data Analyst</position>
+    <salary>65000</salary>
+    <hire_date>2021-03-22T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>3</id>
+    <name>Dinesh Lokre</name>
+    <position>Project Manager</position>
+    <salary>95000</salary>
+    <hire_date>2020-07-12T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>4</id>
+    <name>Amit Gupta</name>
+    <position>HR Manager</position>
+    <salary>70000</salary>
+    <hire_date>2019-05-19T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>5</id>
+    <name>Ananya Rao</name>
+    <position>Marketing Executive</position>
+    <salary>60000</salary>
+    <hire_date>2023-02-10T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>6</id>
+    <name>Anil Kumar</name>
+    <position>Sales Manager</position>
+    <salary>80000</salary>
+    <hire_date>2018-09-01T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>7</id>
+    <name>Arjun Patel</name>
+    <position>Network Administrator</position>
+    <salary>72000</salary>
+    <hire_date>2021-11-18T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>8</id>
+    <name>Arvind Joshi</name>
+    <position>System Analyst</position>
+    <salary>68000</salary>
+    <hire_date>2020-04-05T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>9</id>
+    <name>Bhavna Desai</name>
+    <position>Content Writer</position>
+    <salary>55000</salary>
+    <hire_date>2021-08-23T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>10</id>
+    <name>Chetan Sharma</name>
+    <position>DevOps Engineer</position>
+    <salary>85000</salary>
+    <hire_date>2019-12-30T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>11</id>
+    <name>Deepak Mehta</name>
+    <position>Product Manager</position>
+    <salary>95000</salary>
+    <hire_date>2018-06-15T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>12</id>
+    <name>Dipika Sen</name>
+    <position>Business Analyst</position>
+    <salary>67000</salary>
+    <hire_date>2023-01-25T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>13</id>
+    <name>Gaurav Pandey</name>
+    <position>Finance Manager</position>
+    <salary>90000</salary>
+    <hire_date>2020-10-14T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>14</id>
+    <name>Harish Reddy</name>
+    <position>Database Administrator</position>
+    <salary>82000</salary>
+    <hire_date>2021-05-09T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>15</id>
+    <name>Ishita Kapoor</name>
+    <position>UX Designer</position>
+    <salary>65000</salary>
+    <hire_date>2022-03-17T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>16</id>
+    <name>Jaya Menon</name>
+    <position>Accountant</position>
+    <salary>60000</salary>
+    <hire_date>2019-07-11T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>17</id>
+    <name>Karan Malhotra</name>
+    <position>Software Architect</position>
+    <salary>105000</salary>
+    <hire_date>2020-11-27T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>18</id>
+    <name>Kirti Jain</name>
+    <position>Quality Analyst</position>
+    <salary>62000</salary>
+    <hire_date>2022-08-19T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>19</id>
+    <name>Lakshmi Nair</name>
+    <position>Operations Manager</position>
+    <salary>87000</salary>
+    <hire_date>2018-01-08T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>20</id>
+    <name>Manish Thakur</name>
+    <position>Security Specialist</position>
+    <salary>78000</salary>
+    <hire_date>2019-10-22T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>21</id>
+    <name>Neha Singh</name>
+    <position>Graphic Designer</position>
+    <salary>60000</salary>
+    <hire_date>2021-12-16T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>22</id>
+    <name>Nikhil Aggarwal</name>
+    <position>Support Engineer</position>
+    <salary>62000</salary>
+    <hire_date>2022-06-04T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>23</id>
+    <name>Pooja Chawla</name>
+    <position>Technical Writer</position>
+    <salary>57000</salary>
+    <hire_date>2020-02-28T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>24</id>
+    <name>Pranav Das</name>
+    <position>Cloud Engineer</position>
+    <salary>92000</salary>
+    <hire_date>2021-09-13T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>25</id>
+    <name>Radhika Kaur</name>
+    <position>Legal Advisor</position>
+    <salary>70000</salary>
+    <hire_date>2018-12-05T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>26</id>
+    <name>Rajesh Kumar</name>
+    <position>IT Manager</position>
+    <salary>88000</salary>
+    <hire_date>2020-01-20T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>27</id>
+    <name>Rakesh Bansal</name>
+    <position>Data Scientist</position>
+    <salary>99000</salary>
+    <hire_date>2021-04-15T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>28</id>
+    <name>Ritika Jain</name>
+    <position>Social Media Manager</position>
+    <salary>60000</salary>
+    <hire_date>2022-09-07T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>29</id>
+    <name>Sanjay Puri</name>
+    <position>Chief Technology Officer</position>
+    <salary>120000</salary>
+    <hire_date>2018-07-28T00:00:00Z</hire_date>
+  </employee>
+  <employee>
+    <id>30</id>
+    <name>Sneha Roy</name>
+    <position>Public Relations Officer</position>
+    <salary>65000</salary>
+    <hire_date>2019-06-25T00:00:00Z</hire_date>
+  </employee>
+</employees>

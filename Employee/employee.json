@@ -1,0 +1,46 @@
+{
+    "employees": [
+        {
+            "empid": 100,
+            "fname": "Kartik",
+            "lname": "G",
+            "age": 35,
+            "fullname": ""
+        },
+        {
+            "empid": 101,
+            "fname": "Preethu",
+            "lname": "T",
+            "age": 45,
+            "fullname": ""
+        },
+        {
+            "empid": 102,
+            "fname": "Nalini",
+            "lname": "K",
+            "age": 61,
+            "fullname": ""
+        },
+        {
+            "empid": 103,
+            "fname": "Kartik",
+            "lname": "Shinde",
+            "age": 21,
+            "fullname": ""
+        },
+        {
+            "empid": 104,
+            "fname": "Ramk",
+            "lname": "S",
+            "age": 35,
+            "fullname": ""
+        },
+        {
+            "empid": 105,
+            "fname": "Ramk",
+            "lname": "S",
+            "age": 35,
+            "fullname": ""
+        }
+    ]
+}
